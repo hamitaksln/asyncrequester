@@ -11,11 +11,11 @@ classifiers = [
 
 setup(
   name='asyncrequester',
-  version='0.1.2',
+  version='0.1.3',
   description='Basic async requester',
   long_description=open('README.md').read(),
   long_description_content_type="text/markdown",
-  url='',  
+  url='https://github.com/hamitaksln/asyncrequester',  
   author='Abdulhamit Akaslan',
   author_email='hamtaksln@gmail.com',
   license='MIT', 
